@@ -46,3 +46,10 @@ a:hover{
 	font-weight:300;
 	color:#ffffff;
 }
+
+
+/*other stuff*/
+.item-bg{
+	margin-top:20px;
+	padding:0 10;
+}
