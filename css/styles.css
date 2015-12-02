@@ -6,6 +6,8 @@
 	width:90px;
 }
 
+
+
 header h1 {
 	font-family: "Satisfy", cursive;
 	color:#ff827b;
@@ -98,3 +100,26 @@ footer .fine-print {
 	color:#505050;
 }
 /*end of footer*/
+
+/*media queries*/
+
+@media (max-width:767px){
+	.center{
+		float:none;
+		margin:0 auto;
+	}
+
+	.bottom{
+		top:0;
+	}
+	.social{
+		text-align: center;
+		font-size: 45px;
+	}
+
+	.social i {
+		margin:20px 10px 0px;
+	}
+
+}
+
